@@ -1,11 +1,11 @@
 # Hi, I'm Ana! ✨
 
-![Logo](logo.png)
+![Logo](banner.gif)
 
 ---
 
 ## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](artissce.github.io)  
+[![Portfolio](artissce.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/))  
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)]([https://twitter.com/](https://www.instagram.com/artiss_hasher?igsh=YWtlNG1vMm9hbzJh))
 
