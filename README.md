@@ -1,13 +1,15 @@
 # Hi, I'm Ana! ✨
 
-![Logo](banner.gif)
+<p align="center">
+  <img src="banner.gif" alt="Banner" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
-[![Portfolio](artissce.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/))  
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)]([https://twitter.com/](https://www.instagram.com/artiss_hasher?igsh=YWtlNG1vMm9hbzJh))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://artissce.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/)  
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artiss_hasher?igshid=YWtlNG1vMm9hbzJh)
 
 ---
 
@@ -111,3 +113,7 @@ I love diving into complex problems and finding creative solutions through code 
 ---
 
 🎉 **Thanks for visiting my profile! Feel free to connect and collaborate.** 💻✨
+
+<p align="center">
+  <img src="banner2.gif" alt="Banner" />
+</p>
