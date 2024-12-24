@@ -10,7 +10,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://artissce.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/)  
 [![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/artiss_hasher?igshid=YWtlNG1vMm9hbzJh)
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@artis/30-nites-of-code)  
+  ![@artis #30NitesOfCode](https://www.codedex.io/api/petStatus?user=artis)
 ---
 
 ## 👾 About Me
