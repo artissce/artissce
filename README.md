@@ -1,11 +1,17 @@
-# 💻 Ana Karen Cuenca Esquivel  
+# 🌸 Ana Karen Cuenca Esquivel  
 
 **🎓 IT Student | 🌍 San Luis Potosí, Mexico | ✨ Passionate Software Developer**  
 
 <p align="center">
-  <img src="banner.gif" alt="Animated banner" width="600" />
+  <img src="banner.gif" alt="Animated banner" width="400" />
 </p>  
 
+---
+📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://artissce.github.io)  
+
+*"If you can imagine, you can code it"* 👾
 ---
 
 ## 📌 About Me  
@@ -49,13 +55,5 @@ Hi! I'm Ana, a final-year IT student with dual citizenship (Mexico/US). I love s
   <img src="banner2.gif" alt="Animated banner" width="400" />
 </p>
 
----
 
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://artissce.github.io)  
 
-✨ **#30NitesOfCode:** [My Progress](https://www.codedex.io/@artis/30-nites-of-code)  
-![Progress](https://www.codedex.io/api/petStatus?user=artis)  
-
-*"If you can imagine, you can coding"* 💖
