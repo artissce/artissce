@@ -1,17 +1,25 @@
 # 🌸 Ana Karen Cuenca Esquivel  
 
-**🎓 IT Student | 🌍 San Luis Potosí, Mexico | ✨ Passionate Software Developer**  
+<p align="center"><strong>🎓 IT Student | 🌍 San Luis Potosí, Mexico | ✨ Passionate Software Developer</strong></p>
 
 <p align="center">
   <img src="banner.gif" alt="Animated banner" width="400" />
 </p>  
 
 ---
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://artissce.github.io)  
 
-*"If you can imagine, you can code it"* 👾
+<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://artissce.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center"><em>"If you can imagine, you can code it" </em>👾</p>
+ 
 ---
 
 ## 📌 About Me  
