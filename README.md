@@ -1,4 +1,4 @@
-# 🌸 Ana Karen Cuenca Esquivel  
+# 🌸 Ana Esquivel  
 
 <p align="center"><strong>🎓 IT Student | 🌍 San Luis Potosí, Mexico | ✨ Passionate Software Developer</strong></p>
 
