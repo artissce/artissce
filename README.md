@@ -25,7 +25,7 @@
 ## 📌 About Me  
 Hi! I'm Ana, a final-year IT student with dual citizenship (Mexico/US). I love solving problems through code and creating innovative solutions.  
 
-🔹 **Age:** 20  
+🔹 **Age:** 21  
 🔹 **Main Interests:**  
 - Full Stack Development  
 - Data Analysis  
