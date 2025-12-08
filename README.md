@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ana-karen-cuenca-esquivel-a513302b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://artissce.github.io">
+  <a href="https://artissce.github.io](https://artissce.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
